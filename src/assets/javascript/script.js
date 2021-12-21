@@ -154,7 +154,6 @@ document.onreadystatechange = x => {(function renderizarDestaques() {
     //localStorage.getItem armazena o valor no browser. Após atualizar tela, zera o carrinho. Exceto ao usar a função onloadItensQuant() criada acima.
     //chamando document. (COM) getElementById ("i_cart_total") pq está como id no span do html. A bolinha de quantidades.
 
-
 /* --- JQUERY --- */ 
 
 /*função buscar com jQuery -- puxa dentro do input os produtos que tem na seção destaque*/
